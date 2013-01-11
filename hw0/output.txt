@@ -4,4 +4,7 @@ name:
    last: Dyer
 email: cdyer@cs.cmu.edu
 leaderboard: ProfDyer
-languages: [eng,deu]
+languages:
+ - eng
+ - deu
+
